@@ -1,0 +1,9 @@
+export IRA_PYTHON_ENV_PATH=/work/dev/py/iravati/pyenv
+export IRA_PYTHON_DEPENDENCIES=jinja2
+export IRA_SPACK_GIT=git@github.com:spack/spack
+export IRA_SPACK_VER=releases/v0.18
+export IRA_SPACK_PATH=/work/dev/py/iravati/spack
+export IRA_SPACK_REINSTALL=no
+export IRA_AIRAVATA_GIT=git@github.com:erothe/spack-airavata
+export IRA_AIRAVATA_PATH=/work/dev/py/iravati/spack-airavata
+export IRA_AIRAVATA_VER=main
